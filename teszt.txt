@@ -1,2 +1,3 @@
 Ez egy tesztfájl!
 Hogy ez mekkora egy szívás...
+De azért megoldom.
